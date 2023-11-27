@@ -1,4 +1,4 @@
-# Frontend Task Essentially AI
+# Essentially AI
 
 
 ## Overview of Task 
